@@ -1,0 +1,864 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-24 20:27+0100\n"
+"PO-Revision-Date: 2020-07-19 01:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 4.0/applet.js:41 3.2/applet.js:157
+msgid "Initializing"
+msgstr ""
+
+#: 4.0/applet.js:61
+msgid "Find files..."
+msgstr ""
+
+#: 4.0/applet.js:209
+msgid "Please wait..."
+msgstr ""
+
+#: 4.0/applet.js:692 3.2/applet.js:1427
+#, fuzzy
+msgid "No recent files"
+msgstr "切换最近的文件"
+
+#: 4.0/applet.js:1180
+msgid "Solution:"
+msgstr ""
+
+#: 4.0/applet.js:1181 4.0/applet.js:1216
+msgid "Click to copy"
+msgstr ""
+
+#: 4.0/applet.js:1195
+#, fuzzy
+msgid "Search web for"
+msgstr "搜索提供者"
+
+#: 4.0/applet.js:1339
+msgid "Too many entries - showing first 1000 entries only"
+msgstr ""
+
+#. 4.0->settings-schema.json->open-on-category->options
+#: 4.0/applet.js:1528
+#, fuzzy
+msgid "All applications"
+msgstr "所有应用程序"
+
+#: 4.0/applet.js:1566
+#, fuzzy
+msgid "Favorites"
+msgstr "收藏夹应用程序"
+
+#. 4.0->settings-schema.json->open-on-category->options
+#: 4.0/applet.js:1567 3.2/applet.js:1016
+msgid "Places"
+msgstr "位置"
+
+#. 4.0->settings-schema.json->open-on-category->options
+#: 4.0/applet.js:1568
+#, fuzzy
+msgid "Recent files"
+msgstr "最近的文件"
+
+#: 4.0/applet.js:1570 3.2/applet.js:1018
+msgid "Bookmarks"
+msgstr "书签"
+
+#. 4.0->settings-schema.json->open-on-category->options
+#: 4.0/applet.js:1571
+#, fuzzy
+msgid "Favorite apps"
+msgstr "收藏夹应用程序"
+
+#. 4.0->settings-schema.json->open-on-category->options
+#: 4.0/applet.js:1572
+msgid "Home folder"
+msgstr ""
+
+#: 4.0/applet.js:1811 3.2/applet.js:284
+msgid "No description available"
+msgstr "没有可用的描述"
+
+#: 4.0/applet.js:1913 3.2/applet.js:1416
+msgid "Clear List"
+msgstr "清除列表"
+
+#: 4.0/applet.js:2139 3.2/applet.js:2323
+msgid "Quit"
+msgstr "退出"
+
+#: 4.0/applet.js:2140 3.2/applet.js:2324
+msgid "Shutdown the computer"
+msgstr "关闭计算机"
+
+#: 4.0/applet.js:2144 3.2/applet.js:2315
+msgid "Logout"
+msgstr "注销"
+
+#: 4.0/applet.js:2145 3.2/applet.js:2316
+msgid "Leave the session"
+msgstr "离开会话"
+
+#: 4.0/applet.js:2148
+#, fuzzy
+msgid "Lock screen"
+msgstr "锁定屏幕"
+
+#: 4.0/applet.js:2149 3.2/applet.js:2294
+msgid "Lock the screen"
+msgstr "锁定屏幕"
+
+#. 3.2->settings-schema.json->resetCategoryOrder-button->description
+#: 4.0/buttons.js:315
+msgid "Reset category order"
+msgstr "重置类别顺序"
+
+#: 4.0/buttons.js:389 4.0/buttons.js:397 3.2/buttons.js:1045
+#: 3.2/buttons.js:1047
+msgid "Run with NVIDIA GPU"
+msgstr "使用NVIDIA GPU运行"
+
+#: 4.0/buttons.js:401 3.2/buttons.js:1049
+msgid "Add to panel"
+msgstr "添加到面板"
+
+#: 4.0/buttons.js:416 3.2/buttons.js:1051
+msgid "Add to desktop"
+msgstr "添加到桌面"
+
+#: 4.0/buttons.js:428 4.0/buttons.js:476 3.2/buttons.js:1054
+msgid "Remove from favorites"
+msgstr "从收藏夹移除"
+
+#: 4.0/buttons.js:432 4.0/buttons.js:481 3.2/buttons.js:1056
+msgid "Add to favorites"
+msgstr "添加到收藏夹"
+
+#: 4.0/buttons.js:447 4.0/buttons.js:836 4.0/buttons.js:996
+msgid "This file is no longer available"
+msgstr ""
+
+#: 4.0/buttons.js:452
+msgid "Open with"
+msgstr ""
+
+#: 4.0/buttons.js:467
+#, fuzzy
+msgid "Other application..."
+msgstr "显示应用程序图标"
+
+#: 4.0/buttons.js:493
+msgid "Open containing folder"
+msgstr ""
+
+#: 4.0/buttons.js:500
+msgid "Move to trash"
+msgstr ""
+
+#: 4.0/buttons.js:505
+msgid "Error while moving file to trash:"
+msgstr ""
+
+#: 3.2/applet.js:92
+msgid "Type to search..."
+msgstr "键入以搜索..."
+
+#: 3.2/applet.js:978
+msgid "All Applications"
+msgstr "所有应用程序"
+
+#: 3.2/applet.js:1017
+msgid "Recent Files"
+msgstr "最近的文件"
+
+#: 3.2/applet.js:1019
+msgid "Favorite Apps"
+msgstr "收藏夹应用程序"
+
+#: 3.2/applet.js:1352
+msgid "gir1.2-gda-5.0 package required for Firefox and Midori bookmarks."
+msgstr "Firefox和Midori书签所需的gir1.2-gda-5.0包。"
+
+#: 3.2/applet.js:2279
+msgid "Account details"
+msgstr ""
+
+#: 3.2/applet.js:2286 3.2/buttons.js:1260
+msgid "Grid View"
+msgstr "网格视图"
+
+#: 3.2/applet.js:2286 3.2/buttons.js:1254
+msgid "List View"
+msgstr "列表视图"
+
+#: 3.2/applet.js:2287 3.2/buttons.js:1261
+msgid "Switch to grid view"
+msgstr "切换到网格视图"
+
+#: 3.2/applet.js:2287 3.2/buttons.js:1255
+msgid "Switch to list view"
+msgstr "切换到列表视图"
+
+#: 3.2/applet.js:2293
+msgid "Lock Screen"
+msgstr "锁定屏幕"
+
+#: 3.2/buttons.js:1059
+msgid "Uninstall"
+msgstr "卸载"
+
+#: 3.2/placeDisplay.js:146
+msgid "Home"
+msgstr "主目录"
+
+#: 3.2/placeDisplay.js:220
+msgid "Computer"
+msgstr "计算机"
+
+#: 3.2/placeDisplay.js:224
+msgid "Browse network"
+msgstr "浏览网络"
+
+#: 4.0/search.py:43
+msgid "Open..."
+msgstr ""
+
+#: 4.0/search.py:48
+msgid "Open Containing Folder..."
+msgstr ""
+
+#: 4.0/search.py:85
+msgid "Search"
+msgstr ""
+
+#: 4.0/search.py:106
+msgid "Start in"
+msgstr ""
+
+#: 4.0/search.py:107
+msgid "Select a folder"
+msgstr ""
+
+#: 4.0/search.py:113
+msgid "Follow symlinks"
+msgstr ""
+
+#: 4.0/search.py:117
+#, fuzzy
+msgid "Search hidden"
+msgstr "搜索提供者"
+
+#: 4.0/search.py:121
+msgid "Use regular expressions"
+msgstr ""
+
+#: 4.0/search.py:125
+msgid "Stop"
+msgstr ""
+
+#: 4.0/search.py:140
+msgid "File"
+msgstr ""
+
+#: 4.0/search.py:156
+msgid "Path"
+msgstr ""
+
+#: 4.0/search.py:184
+msgid "Searching..."
+msgstr ""
+
+#: 4.0/search.py:198 4.0/search.py:199
+#, fuzzy
+msgid "Search Stopped"
+msgstr "搜索提供者"
+
+#: 4.0/search.py:215
+msgid "Searching: "
+msgstr ""
+
+#: 4.0/search.py:220
+msgid "Error: insufficient permissions to read folder "
+msgstr ""
+
+#: 4.0/search.py:252
+msgid "Search Completed"
+msgstr ""
+
+#: 4.0/search.py:259
+msgid "Skipping"
+msgstr ""
+
+#: 4.0/search.py:259
+msgid " - directory already searched"
+msgstr ""
+
+#. metadata.json->name
+#. 3.2->settings-schema.json->cinnamenuProvidersSection->title
+msgid "Cinnamenu"
+msgstr "Cinnamenu"
+
+#. metadata.json->description
+msgid ""
+"A flexible menu providing formatting options, web bookmarks, search provider "
+"support and fuzzy searching."
+msgstr "灵活的菜单，提供格式选项，Web书签，搜索提供程序支持和模糊搜索。"
+
+#. 4.0->settings-schema.json->layout->title
+#. 3.2->settings-schema.json->menu->title
+msgid "Layout and Content"
+msgstr "布局和内容"
+
+#. 4.0->settings-schema.json->behaviour->title
+#. 3.2->settings-schema.json->panel->title
+msgid "Behavior"
+msgstr "行为"
+
+#. 4.0->settings-schema.json->appearance->title
+#. 3.2->settings-schema.json->appearance->title
+msgid "Appearance"
+msgstr "外观"
+
+#. 4.0->settings-schema.json->menu-layout->title
+#. 3.2->settings-schema.json->menu-layout->title
+msgid "Layout"
+msgstr "布局"
+
+#. 4.0->settings-schema.json->menu-content->title
+#. 3.2->settings-schema.json->menu-content->title
+msgid "Content"
+msgstr "内容"
+
+#. 4.0->settings-schema.json->panel-behave->title
+#. 4.0->settings-schema.json->panel-appear->title
+#. 3.2->settings-schema.json->panel-appear->title
+#. 3.2->settings-schema.json->panel-behave->title
+msgid "Panel"
+msgstr "面板"
+
+#. 4.0->settings-schema.json->menu-behave->title
+#. 4.0->settings-schema.json->menu-icons->title
+#. 3.2->settings-schema.json->menu-behave->title
+#. 3.2->settings-schema.json->menu-icons->title
+msgid "Menu"
+msgstr "菜单"
+
+#. 4.0->settings-schema.json->applications-view-mode->description
+msgid "Applications view mode"
+msgstr "应用程序查看模式"
+
+#. 4.0->settings-schema.json->applications-view-mode->options
+#. 3.2->settings-schema.json->startup-view-mode->options
+msgid "List"
+msgstr "列表"
+
+#. 4.0->settings-schema.json->applications-view-mode->options
+#. 3.2->settings-schema.json->startup-view-mode->options
+msgid "Grid"
+msgstr "网格"
+
+#. 4.0->settings-schema.json->applications-view-mode->tooltip
+msgid "View applications as list or grid"
+msgstr "以列表或网格查看应用程序"
+
+#. 4.0->settings-schema.json->description-placement->description
+msgid "Application description placement"
+msgstr "应用说明放置"
+
+#. 4.0->settings-schema.json->description-placement->options
+msgid "Tooltips"
+msgstr "工具提示"
+
+#. 4.0->settings-schema.json->description-placement->options
+msgid "Under titles"
+msgstr "在标题下"
+
+#. 4.0->settings-schema.json->description-placement->options
+#. 4.0->settings-schema.json->web-search-option->options
+msgid "None"
+msgstr "没有"
+
+#. 4.0->settings-schema.json->description-placement->tooltip
+msgid "Choose where to show application descriptions"
+msgstr "选择显示应用程序描述的位置"
+
+#. 4.0->settings-schema.json->sidebar-placement->description
+msgid "Session buttons location"
+msgstr "会话按钮的位置"
+
+#. 4.0->settings-schema.json->sidebar-placement->options
+msgid "Top"
+msgstr "最佳"
+
+#. 4.0->settings-schema.json->sidebar-placement->options
+msgid "Bottom"
+msgstr "底部"
+
+#. 4.0->settings-schema.json->sidebar-placement->options
+msgid "Left"
+msgstr "剩下"
+
+#. 4.0->settings-schema.json->sidebar-placement->options
+msgid "Right"
+msgstr "对"
+
+#. 4.0->settings-schema.json->sidebar-placement->tooltip
+#, fuzzy
+msgid "Choose where to show the session buttons (quit, logout, etc.)"
+msgstr "选择显示会话（退出，注销等）按钮的位置"
+
+#. 4.0->settings-schema.json->info-box->description
+msgid ""
+"\n"
+"Info/tip: Drag on the menu edge to change the menu size.\n"
+msgstr ""
+
+#. 4.0->settings-schema.json->add-favorites->description
+msgid "Add favorites to session buttons"
+msgstr "将收藏夹添加到会话按钮"
+
+#. 4.0->settings-schema.json->add-favorites->tooltip
+msgid "Show your favorite app icons next to the session buttons"
+msgstr "在会话按钮旁边显示您喜欢的应用程序图标"
+
+#. 4.0->settings-schema.json->show-places-category->description
+#. 3.2->settings-schema.json->show-places->description
+msgid "Show bookmarks and places"
+msgstr "显示书签和位置"
+
+#. 4.0->settings-schema.json->show-places-category->tooltip
+#. 3.2->settings-schema.json->show-places->tooltip
+#, fuzzy
+msgid "Show bookmarks and places category in the menu"
+msgstr "显示书签和位置"
+
+#. 4.0->settings-schema.json->show-recents-category->description
+#, fuzzy
+msgid "Show recent files"
+msgstr "切换最近的文件"
+
+#. 4.0->settings-schema.json->show-recents-category->tooltip
+#, fuzzy
+msgid "Show recent files category in the menu"
+msgstr "显示书签和位置"
+
+#. 4.0->settings-schema.json->show-web-bookmarks-category->description
+#. 3.2->settings-schema.json->enable-bookmarks->description
+msgid "Show web bookmarks"
+msgstr "显示网络书签"
+
+#. 4.0->settings-schema.json->show-web-bookmarks-category->tooltip
+msgid ""
+"Show your browser's web bookmarks in the menu.\n"
+"Note: Install package gir1.2-gda-5.0 to read firefox bookmarks."
+msgstr ""
+
+#. 4.0->settings-schema.json->show-favorite-apps-category->description
+msgid "Show favorite apps category"
+msgstr ""
+
+#. 4.0->settings-schema.json->show-favorite-apps-category->tooltip
+#, fuzzy
+msgid "Show your favorite apps category in the menu"
+msgstr "显示书签和位置"
+
+#. 4.0->settings-schema.json->show-home-folder-category->description
+msgid "Show home folder"
+msgstr ""
+
+#. 4.0->settings-schema.json->show-home-folder-category->tooltip
+#, fuzzy
+msgid "Show home folder category in the menu"
+msgstr "显示书签和位置"
+
+#. 4.0->settings-schema.json->menu-editor-button->description
+#. 3.2->settings-schema.json->menu-editor-button->description
+msgid "Open the menu editor"
+msgstr "打开菜单编辑器"
+
+#. 4.0->settings-schema.json->overlay-key->description
+#. 3.2->settings-schema.json->overlay-key->description
+msgid "Keyboard shortcut to open and close the menu"
+msgstr "打开和关闭菜单的键盘快捷键"
+
+#. 4.0->settings-schema.json->activate-on-hover->description
+#. 3.2->settings-schema.json->activate-on-hover->description
+msgid "Open menu on hover"
+msgstr "悬停时打开菜单"
+
+#. 4.0->settings-schema.json->activate-on-hover->tooltip
+#. 3.2->settings-schema.json->activate-on-hover->tooltip
+#, fuzzy
+msgid "Open the menu when I move my mouse over the panel icon"
+msgstr "当我移动鼠标到菜单上时打开菜单"
+
+#. 4.0->settings-schema.json->hover-delay->units
+#. 3.2->settings-schema.json->hover-delay->units
+#. 3.2->settings-schema.json->tooltip-delay->units
+msgid "milliseconds"
+msgstr "毫秒"
+
+#. 4.0->settings-schema.json->hover-delay->description
+#. 3.2->settings-schema.json->hover-delay->description
+msgid "Menu hover delay"
+msgstr "菜单悬停延迟"
+
+#. 4.0->settings-schema.json->enable-animation->description
+#. 3.2->settings-schema.json->enable-animation->description
+msgid "Use menu animations"
+msgstr "使用菜单动画"
+
+#. 4.0->settings-schema.json->enable-animation->tooltip
+#. 3.2->settings-schema.json->enable-animation->tooltip
+#, fuzzy
+msgid "Animate the menu on open and close"
+msgstr "允许打开和关闭菜单的动画"
+
+#. 4.0->settings-schema.json->category-click->description
+#. 3.2->settings-schema.json->category-click->description
+msgid "Activate categories on click"
+msgstr "点击激活类别"
+
+#. 4.0->settings-schema.json->category-click->tooltip
+#. 3.2->settings-schema.json->category-click->tooltip
+#, fuzzy
+msgid "Activate categories on click instead of on hover"
+msgstr "点击激活类别"
+
+#. 4.0->settings-schema.json->open-on-category->description
+#, fuzzy
+msgid "Open menu on category:"
+msgstr "悬停时打开菜单"
+
+#. 4.0->settings-schema.json->open-on-category->tooltip
+msgid "Always open the menu with this category selected"
+msgstr ""
+
+#. 4.0->settings-schema.json->open-on-category->options
+msgid "Previous category"
+msgstr ""
+
+#. 4.0->settings-schema.json->enable-autoscroll->description
+#. 3.2->settings-schema.json->enable-autoscroll->description
+msgid "Enable autoscrolling"
+msgstr "启用自动滚动"
+
+#. 4.0->settings-schema.json->enable-autoscroll->tooltip
+#, fuzzy
+msgid "Autoscroll the application list on mouse hover"
+msgstr "在应用程序列表中启用自动滚动"
+
+#. 4.0->settings-schema.json->web-search-option->description
+msgid "Web search option"
+msgstr ""
+
+#. 4.0->settings-schema.json->web-search-option->options
+msgid "Google"
+msgstr ""
+
+#. 4.0->settings-schema.json->web-search-option->options
+msgid "Bing"
+msgstr ""
+
+#. 4.0->settings-schema.json->web-search-option->options
+msgid "Yahoo"
+msgstr ""
+
+#. 4.0->settings-schema.json->web-search-option->options
+msgid "DuckDuckGo"
+msgstr ""
+
+#. 4.0->settings-schema.json->web-search-option->tooltip
+msgid "Show an internet search option in search results"
+msgstr ""
+
+#. 4.0->settings-schema.json->enable-emoji-search->description
+#, fuzzy
+msgid "Enable emoji search"
+msgstr "启用搜索提供商"
+
+#. 4.0->settings-schema.json->enable-emoji-search->tooltip
+msgid "Show emojis in search results"
+msgstr ""
+
+#. 4.0->settings-schema.json->show-hidden-files->description
+msgid "Show hidden files"
+msgstr ""
+
+#. 4.0->settings-schema.json->show-hidden-files->tooltip
+msgid "Show hidden files in folder view"
+msgstr ""
+
+#. 4.0->settings-schema.json->menu-icon-custom->description
+#. 3.2->settings-schema.json->menu-icon-custom->description
+msgid "Use a custom icon"
+msgstr "使用自定义图标"
+
+#. 4.0->settings-schema.json->menu-icon-custom->tooltip
+#. 3.2->settings-schema.json->menu-icon-custom->tooltip
+msgid "Use a custom icon in the panel"
+msgstr "在面板中使用自定义图标"
+
+#. 4.0->settings-schema.json->menu-icon->description
+#. 4.0->settings-schema.json->menu-icon->tooltip
+#. 3.2->settings-schema.json->menu-icon->description
+#. 3.2->settings-schema.json->menu-icon->tooltip
+msgid "Panel icon"
+msgstr "面板图标"
+
+#. 4.0->settings-schema.json->menu-icon-size-custom->description
+#, fuzzy
+msgid "Use a custom icon size"
+msgstr "使用自定义图标"
+
+#. 4.0->settings-schema.json->menu-icon-size-custom->tooltip
+#, fuzzy
+msgid "Use a custom size for the panel icon"
+msgstr "在面板中使用自定义图标"
+
+#. 4.0->settings-schema.json->menu-icon-size->units
+#. 4.0->settings-schema.json->category-icon-size->units
+#. 4.0->settings-schema.json->apps-list-icon-size->units
+#. 4.0->settings-schema.json->apps-grid-icon-size->units
+#. 4.0->settings-schema.json->sidebar-icon-size->units
+#. 3.2->settings-schema.json->category-icon-size->units
+#. 3.2->settings-schema.json->apps-list-icon-size->units
+#. 3.2->settings-schema.json->apps-grid-icon-size->units
+msgid "pixels"
+msgstr "像素"
+
+#. 4.0->settings-schema.json->menu-icon-size->description
+#, fuzzy
+msgid "Panel icon size"
+msgstr "面板图标"
+
+#. 4.0->settings-schema.json->menu-icon-size->tooltip
+#, fuzzy
+msgid "Choose a custom size for the panel icon"
+msgstr "在面板中使用自定义图标"
+
+#. 4.0->settings-schema.json->menu-label->description
+#. 3.2->settings-schema.json->menu-label->description
+msgid "Panel text"
+msgstr "面板文字"
+
+#. 4.0->settings-schema.json->menu-label->tooltip
+#. 3.2->settings-schema.json->menu-label->tooltip
+msgid "Text to show beside the panel icon"
+msgstr "在面板图标旁边显示的文本"
+
+#. 4.0->settings-schema.json->category-icon-size->description
+#. 4.0->settings-schema.json->category-icon-size->tooltip
+#. 3.2->settings-schema.json->category-icon-size->description
+#. 3.2->settings-schema.json->category-icon-size->tooltip
+msgid "Category icon size"
+msgstr "类别图标大小："
+
+#. 4.0->settings-schema.json->apps-list-icon-size->description
+#. 4.0->settings-schema.json->apps-list-icon-size->tooltip
+#. 3.2->settings-schema.json->apps-list-icon-size->description
+#. 3.2->settings-schema.json->apps-list-icon-size->tooltip
+msgid "Applications list icon size"
+msgstr "应用程序列表图标大小"
+
+#. 4.0->settings-schema.json->apps-grid-icon-size->description
+#. 4.0->settings-schema.json->apps-grid-icon-size->tooltip
+#. 3.2->settings-schema.json->apps-grid-icon-size->description
+#. 3.2->settings-schema.json->apps-grid-icon-size->tooltip
+msgid "Applications grid icon size"
+msgstr "应用程序网格图标大小"
+
+#. 4.0->settings-schema.json->sidebar-icon-size->description
+#. 4.0->settings-schema.json->sidebar-icon-size->tooltip
+#, fuzzy
+msgid "Session buttons icon size"
+msgstr "会话按钮的位置"
+
+#. 4.0->settings-schema.json->use-box-style->description
+#. 4.0->settings-schema.json->use-box-style->tooltip
+#, fuzzy
+msgid "Use session buttons box style"
+msgstr "会话按钮的位置"
+
+#. 3.2->settings-schema.json->providers->title
+msgid "Search Providers"
+msgstr "搜索提供者"
+
+#. 3.2->settings-schema.json->extensionProvidersSection->title
+msgid "No search provider extensions found"
+msgstr ""
+
+#. 3.2->settings-schema.json->privacy-settings-button->description
+msgid "Recent files settings"
+msgstr "最近的文件设置"
+
+#. 3.2->settings-schema.json->enable-autoscroll->tooltip
+msgid "Enable autoscrolling in application list"
+msgstr "在应用程序列表中启用自动滚动"
+
+#. 3.2->settings-schema.json->enable-bookmarks->tooltip
+msgid "Show your browser's web bookmarks in the menu"
+msgstr "在菜单中显示浏览器的网络书签"
+
+#. 3.2->settings-schema.json->enable-windows->description
+msgid "Enable searching of open windows"
+msgstr ""
+
+#. 3.2->settings-schema.json->enable-search-providers->description
+msgid "Enable search providers"
+msgstr "启用搜索提供商"
+
+#. 3.2->settings-schema.json->enable-search-providers->tooltip
+#, fuzzy
+msgid "Include search provider results in searches"
+msgstr "选择是否在菜单搜索中为搜索提供者的结果建立索引。"
+
+#. 3.2->settings-schema.json->get-providers->description
+msgid "Example Search Providers"
+msgstr "示例搜索提供程序"
+
+#. 3.2->settings-schema.json->startup-view-mode->description
+#. 3.2->settings-schema.json->startup-view-mode->tooltip
+msgid "Startup applications view mode"
+msgstr "启动应用程序视图模式"
+
+#. 3.2->settings-schema.json->apps-grid-column-count->units
+msgid "columns"
+msgstr "列"
+
+#. 3.2->settings-schema.json->apps-grid-column-count->description
+#. 3.2->settings-schema.json->apps-grid-column-count->tooltip
+msgid "Number of columns in apps grid"
+msgstr "应用程序网格中列的数量"
+
+#. 3.2->settings-schema.json->show-application-icons->description
+#. 3.2->settings-schema.json->show-application-icons->tooltip
+msgid "Show application icons"
+msgstr "显示应用程序图标"
+
+#. 3.2->settings-schema.json->show-category-icons->description
+#. 3.2->settings-schema.json->show-category-icons->tooltip
+msgid "Show category icons"
+msgstr "显示类别图标"
+
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->description
+#. 3.2->settings-schema.json->show-apps-description-on-buttons->tooltip
+msgid "Show application descriptions under titles"
+msgstr "在标题下显示应用程序描述"
+
+#. 3.2->settings-schema.json->show-tooltips->description
+#. 3.2->settings-schema.json->show-tooltips->tooltip
+msgid "Show tooltips"
+msgstr ""
+
+#. 3.2->settings-schema.json->tooltip-delay->description
+#. 3.2->settings-schema.json->tooltip-delay->tooltip
+msgid "Tooltip delay"
+msgstr "工具提示延迟"
+
+#. 3.2->settings-schema.json->enable-custom-menu-height->description
+#. 3.2->settings-schema.json->enable-custom-menu-height->tooltip
+msgid "Use a custom menu height"
+msgstr "使用自定义菜单高度"
+
+#. 3.2->settings-schema.json->custom-menu-height->units
+msgid "px"
+msgstr "px"
+
+#. 3.2->settings-schema.json->custom-menu-height->description
+#. 3.2->settings-schema.json->custom-menu-height->tooltip
+msgid "Custom menu height"
+msgstr "自定义菜单高度"
+
+#~ msgid "No recent documents"
+#~ msgstr "没有最近的文档"
+
+#~ msgid "Remove favorite"
+#~ msgstr "删除收藏夹"
+
+#~ msgid "Failed to launch \"%s\""
+#~ msgstr "无法启动\"%s\""
+
+#, fuzzy
+#~ msgid "Press this button to customize your privacy settings."
+#~ msgstr "按此按钮自定义您的菜单条目。"
+
+#~ msgid "Press this button to customize your menu entries."
+#~ msgstr "按此按钮自定义您的菜单条目。"
+
+#~ msgid "Unchecking this allows the theme to set the icon"
+#~ msgstr "不选中此项允许主题设置图标"
+
+#~ msgid "Icon"
+#~ msgstr "图标"
+
+#~ msgid "Set the custom menu button icon name"
+#~ msgstr "设置自定义菜单按钮图标名称"
+
+#~ msgid "Enable opening the menu when the mouse enters the applet"
+#~ msgstr "启用当鼠标进入小程序时打开菜单"
+
+#~ msgid "Delay between switching categories"
+#~ msgstr "切换类别间的延迟"
+
+#~ msgid ""
+#~ "When enabled, category views are activated on click instead of on hover."
+#~ msgstr "启用后，将在单击而不是将鼠标悬停时激活类别视图。"
+
+#~ msgid ""
+#~ "Choose whether or not to enable smooth autoscrolling in the application "
+#~ "list."
+#~ msgstr "选择是否在应用程序列表中启用平滑滚动。"
+
+#~ msgid "Choose whether or not bookmarks are indexed in the menu."
+#~ msgstr "选择是否在菜单中索引书签。"
+
+#, fuzzy
+#~ msgid "Choose whether or not open windows are indexed in menu searches."
+#~ msgstr "选择是否在菜单中索引书签。"
+
+#~ msgid "Choose whether or not to show bookmarks and places in the menu."
+#~ msgstr "选择是否在菜单中显示书签和位置。"
+
+#~ msgid "Choose whether or not to show icons on applications."
+#~ msgstr "选择是否显示应用程序的图标。"
+
+#~ msgid "Choose whether or not to show icons on categories."
+#~ msgstr "选择是否显示类别图标。"
+
+#~ msgid ""
+#~ "Choose whether or not to show the application description on the "
+#~ "application buttons."
+#~ msgstr "选择是否在应用程序按钮上显示应用程序说明。"
+
+#~ msgid "Please provide your password to uninstall this application"
+#~ msgstr "请提供您的密码以卸载此应用程序"
+
+#~ msgid "Enable filesystem path entry in search box"
+#~ msgstr "在搜索框中启用文件系统路径条目"
+
+#~ msgid "Allows path entry in the menu search box."
+#~ msgstr "在菜单搜索框中允许路径条目。"
+
+#~ msgid "Cinnamenu Settings"
+#~ msgstr "Cinnamenu设置"
+
+#~ msgid "Applications grid label width"
+#~ msgstr "应用程序网格图标宽度"
+
+#~ msgid "Menu Entries"
+#~ msgstr "菜单条目"
